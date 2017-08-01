@@ -1,0 +1,31 @@
+body {
+  width: 100%;
+}
+
+.container {
+  width: 1000px;
+  margin: 0px auto;
+}
+
+#keycode-display {
+  font-family: 'arial', 'sans-serif';
+  text-align: center;
+  font-size: 40px;
+}
+
+#text-display {
+  font-family: 'arial', 'sans-serif';
+  font-size: 100px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.input-container {
+  width: 100px;
+  margin: 0px auto;
+}
+
+input {
+  text-align: center;
+  margin: 0px auto;
+}
